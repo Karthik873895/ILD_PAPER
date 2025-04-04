@@ -1,0 +1,24 @@
+Recognition Rate Comparison
+==============================
+
+ORL Dataset:
+LBP: 0.2950
+ELBP: 0.4700
+MBP: 0.0925
+LPQ: 0.9600
+ILD: 0.9850
+
+GT Dataset:
+LBP: 0.4400
+ELBP: 0.5613
+MBP: 0.0813
+LPQ: 0.9813
+ILD: 0.9933
+
+Faces94 Dataset:
+LBP: 0.4233
+ELBP: 0.7827
+MBP: 0.0331
+LPQ: 0.9838
+ILD: 0.9909
+
